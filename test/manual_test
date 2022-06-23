@@ -1,0 +1,112 @@
+semaine1:
+    no segfault: Yes
+    norm ok: Yes
+    Menu de départ: Yes
+    Save: no
+    Choix personnage: no
+    choix nom: no
+    choix pokemon: no
+    map: no
+    moovement de map: no
+    pause menu: no
+    combat: no
+    pokemon select: no
+    inventaire: no
+    evolution pokemon: no
+    fin possible: no
+semaine2:
+    no segfault: Yes
+    norm ok: No
+    Menu de départ: Yes
+    Save: no
+    Choix personnage: Yes
+    choix nom: Yes
+    choix pokemon: no
+    map: Yes
+    moovement de map: Yes
+    pause menu: no
+    combat: no
+    pokemon select: no
+    inventaire: no
+    evolution pokemon: no
+    fin possible: no
+semaine3:
+    no segfault: Yes
+    norm ok: No
+    Menu de départ: Yes
+    Save: Yes
+    Choix personnage: Yes
+    choix nom: Yes
+    choix pokemon: no
+    map: Yes
+    moovement de map: Yes
+    pause menu: no
+    combat: no
+    pokemon select: no
+    inventaire: no
+    evolution pokemon: no
+    fin possible: no
+semaine4:
+    no segfault: No
+    norm ok: No
+    Menu de départ: Yes
+    Save: Yes
+    Choix personnage: Yes
+    choix nom: Yes
+    choix pokemon: no
+    map: Yes
+    moovement de map: Yes
+    pause menu: Yes
+    combat: no
+    pokemon select: no
+    inventaire: no
+    evolution pokemon: no
+    fin possible: no
+semaine5:
+    no segfault: No
+    norm ok: No
+    Menu de départ: Yes
+    Save: Yes
+    Choix personnage: Yes
+    choix nom: Yes
+    choix pokemon: Yes
+    map: Yes
+    moovement de map: Yes
+    pause menu: Yes
+    combat: no
+    pokemon select: no
+    inventaire: no
+    evolution pokemon: no
+    fin possible: no
+semaine6:
+    no segfault: Yes
+    norm ok: No
+    Menu de départ: Yes
+    Save: Yes
+    Choix personnage: Yes
+    choix nom: Yes
+    choix pokemon: Yes
+    map: Yes
+    moovement de map: Yes
+    pause menu: Yes
+    combat: Yes
+    pokemon select: Yes
+    inventaire: no
+    evolution pokemon: no
+    fin possible: no
+semaine7:
+    no segfault: Yes
+    norm ok: No
+    Menu de départ: Yes
+    Save: Yes
+    Choix personnage: Yes
+    choix nom: Yes
+    choix pokemon: Yes
+    map: Yes
+    moovement de map: Yes
+    pause menu: Yes
+    combat: Yes
+    pokemon select: Yes
+    inventaire: no
+    evolution pokemon: no
+    fin possible: Yes
